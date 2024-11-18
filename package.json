@@ -1,0 +1,23 @@
+{
+  "name": "hn-util",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c ./rollup.config.js"
+  },
+  "keywords": [],
+  "files": [
+    "dist",
+    "lib",
+    "es",
+    "package.json",
+    "README.md"
+  ],
+  "author": "huangnan",
+  "license": "ISC",
+  "description": "这是一段描述",
+  "dependencies": {
+    "react": "^18.3.1",
+    "rollup": "^4.21.2"
+  }
+}
